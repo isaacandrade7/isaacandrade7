@@ -31,7 +31,7 @@ Sou natural de Fortaleza/CE, tenho 30 anos e sou um verdadeiro alucinado por tec
     title="WordPress"
     width="30px" 
     style="padding-right: 10px; filter: invert(100%);" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"
 />
 <img 
     align="left" 
@@ -84,24 +84,16 @@ Sou natural de Fortaleza/CE, tenho 30 anos e sou um verdadeiro alucinado por tec
     alt="Photoshop" 
     title="Photoshop"
     width="30px" 
-    style="padding-right: 10px;"
-    src="https://img.shields.io/badge/-adobephotoshop?style=flat-square&logo=adobephotoshop&logoColor=ffffff&color=00000000"
+    style="padding-right: 10px; filter: invert(0%);"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
 />
 <img 
     align="left"  
     alt="Illustrator" 
     title="Illustrator"
     width="30px" 
-    style="padding-right: 10px;"
-    src="https://img.shields.io/badge/-adobeillustrator?style=flat-square&logo=adobeillustrator&logoColor=ffffff&color=00000000"
-/>
-<img 
-    align="left" 
-    alt="CorelDraw" 
-    title="CorelDraw"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://img.shields.io/badge/-coreldraw?style=flat-square&logo=coreldraw&logoColor=ffffff&color=00000000"
+    style="padding-right: 10px; filter: invert(100%);"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"
 />
 <img 
     align="left" 
@@ -110,6 +102,14 @@ Sou natural de Fortaleza/CE, tenho 30 anos e sou um verdadeiro alucinado por tec
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+<img 
+    align="left" 
+    alt="CorelDraw" 
+    title="CorelDraw"
+    width="30px" 
+    style="padding-right: 10px; filter: invert(100%);"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/coreldraw.svg"
 />
 
 <br clear="left"/>
