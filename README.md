@@ -92,8 +92,8 @@ Sou natural de Fortaleza/CE, tenho 30 anos e sou um verdadeiro alucinado por tec
     alt="Illustrator" 
     title="Illustrator"
     width="30px" 
-    style="padding-right: 10px; filter: invert(100%);"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg"
+    style="padding-right: 10px; filter: invert(0%);"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg"
 />
 <img 
     align="left" 
